@@ -1,0 +1,22 @@
+*, *::before, *::after {
+	box-sizing: border-box;
+}	
+
+.container {
+	padding: 0 16px;
+}
+
+.row {
+	margin: 0 -8px;
+}
+
+.row::after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
+[class*="col-"] {
+	float: left;
+	padding: 0 8px;
+}

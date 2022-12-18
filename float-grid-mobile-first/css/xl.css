@@ -1,0 +1,49 @@
+@media only screen and (min-width: 1440px) {
+	.col-xl-1 {
+		width: calc(100% / 12 * 1);
+	}
+
+	.col-xl-2 {
+		width: calc(100% / 12 * 2);
+	}
+
+	.col-xl-3 {
+		width: calc(100% / 12 * 3);
+	}
+
+	.col-xl-4 {
+		width: calc(100% / 12 * 4);
+	}
+
+	.col-xl-5 {
+		width: calc(100% / 12 * 5);
+	}
+
+	.col-xl-6 {
+		width: calc(100% / 12 * 6);
+	}
+
+	.col-xl-7 {
+		width: calc(100% / 12 * 7);
+	}
+
+	.col-xl-8 {
+		width: calc(100% / 12 * 8);
+	}
+
+	.col-xl-9 {
+		width: calc(100% / 12 * 9);
+	}
+
+	.col-xl-10 {
+		width: calc(100% / 12 * 10);
+	}
+
+	.col-xl-11 {
+		width: calc(100% / 12 * 11);
+	}
+
+	.col-xl-12 {
+		width: calc(100% / 12 * 12);
+	}
+}
